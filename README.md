@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dodooh
 - 👀 I’m interested in Programming, Graphic Design and Reading Books.
 - 🌱 I’m currently learning NodeJS and ReactJS
-- 💞️ I’m looking to collaborate on open source project related to cooporate game.
+- 💞️ I’m looking to collaborate on open source project related to multiplayer game.
 - 📫 How to reach me 
 IG: @iamnotnghia
 LinkedIn: nguyen2697s
