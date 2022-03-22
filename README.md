@@ -3,7 +3,7 @@
 <h2 align="center">A self-taught developer from Vietnam</h2>
 
 <h3 align="center">- 👀 I’m interested in Programming, Graphic Design, and Reading Books.</h3>
-<h3 align="center">- 🌱 I’m currently learning NodeJS and ReactJS</h3>
+<h3 align="center">- 🌱 I’m currently learning Java and Spring Boot</h3>
 <h3 align="center">- 💞️ I’m looking to collaborate on an open-source project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodooh&label=Profile%20views&color=0e75b6&style=flat" alt="dodooh" /> </p>
