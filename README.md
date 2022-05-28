@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nghia</h1>
-<h2 align="center">A self-taught developer from Vietnam</h2>
+<h2 align="center">from Vietnam</h2>
 
 <h3 align="center">- 👀 I’m interested in Programming, Graphic Design, and Reading Books.</h3>
 <h3 align="center">- 🌱 I’m currently learning Java and Spring Boot</h3>
