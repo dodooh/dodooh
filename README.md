@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Nghia</h1>
 <h2 align="center">from Vietnam</h2>
 
-<h3 align="center">- 👀 I’m interested in Programming, Graphic Design, and Reading Books.</h3>
-<h3 align="center">- 🌱 I’m currently learning Java and Spring Boot</h3>
+<h3 align="center">- 👀 I’m in love with Programming, Books and Traveling</h3>
+<h3 align="center">- 🌱 I’m currently with Java and Kotlin</h3>
 <h3 align="center">- 💞️ I’m looking to collaborate on an open-source project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodooh&label=Profile%20views&color=0e75b6&style=flat" alt="dodooh" /> </p>
